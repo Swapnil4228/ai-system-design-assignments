@@ -15,12 +15,5 @@ This repository contains AI/ML workflow design assignments and small prototype i
 - OCR handling for screenshots
 - TF-IDF + Logistic Regression prototype
 
-## Technologies Used
-- Python
-- Scikit-learn
-- Pandas
-- FastAPI
-- Google Colab
-
 ## Author
 Swapnil Maharana
